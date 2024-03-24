@@ -35,7 +35,7 @@ Versions for both inverted and normal belts.
 ### shuttle_clamper_body_v101_inverted_belt_gt2_epdm
 main body, for no loss in x.
 For inverted belts in EPDM (LL-GT2 E) and GT3. will be too loose for normal GT2 (rubber) belts.
-Should work with GT2 RF (rubber/normal) belts as well, but slips sooner (<15kg)
+Should work with GT2 RF (rubber/normal) belts as well, but will slip sooner (<15kg)
 
 ### shuttle_clamper_body_v96_*
 main body, for no loss in x.
