@@ -15,9 +15,11 @@ Versions for both inverted and normal belts.
 - Tested with 15kg static load per belt
 
 ## BOM
-| Part                        | Amount    | Description                                                      |
-|-----------------------------|-----------|------------------------------------------------------------------|
-| M2x25mm SHCS or 2x25mm PIN  | 4         |  Pin for more strength, m2 screw for ease of use                 |
+| Part                        | Amount    | Description                                                                      |
+|-----------------------------|-----------|----------------------------------------------------------------------------------|
+| M2x25mm SHCS or 2x25mm PIN  | 4         |  Pin leaves more material, hence stronger.                                       |
+|                             |           |  M2 SHCS for ease of use                                                         |
+|                             |           |  (only 2 screws if using single pin and clamp version (shuttle_clamper_body_v75) |
 
 ## Print Instructions
 - Print it upright, the strength comes from the layer direction. printing it in the incorrect orientation will result in a weaker part.  
