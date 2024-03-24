@@ -20,14 +20,14 @@ Versions for both inverted and normal belts.
 | M2x25mm SHCS or 2x25mm PIN  | 4         |  Pin for more strength, m2 screw for ease of use                 |
 
 ## Print Instructions
-Print it upright, the strength comes from the layer direction. printing it in the incorrect orientation will result in a weaker part.
-Use support (make sure your supports are tuned to the point where you're able to remove them carefully without breaking the part).
-40%+ infill
-4 perimitters
-4 top and bottom layers
-0.2mm layer height
-0.4mm nozzle or smaller
-enable filling gaps
+Print it upright, the strength comes from the layer direction. printing it in the incorrect orientation will result in a weaker part.  
+Use support (make sure your supports are tuned to the point where you're able to remove them carefully without breaking the part).  
+40%+ infill  
+4 perimitters  
+4 top and bottom layers  
+0.2mm layer height  
+0.4mm nozzle or smaller  
+enable filling gaps  
 
 
 ### BOM - m2_belt_clamp
