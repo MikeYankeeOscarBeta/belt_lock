@@ -29,6 +29,25 @@ Versions for both inverted and normal belts.
 - 0.4mm nozzle (or smaller)
 - enable filling gaps
 
+## Part Instructions
+### shuttle_clamper_body_v101_inverted_belt_gt2_epdm
+main body, for no loss in x.
+For inverted belts in EPDM (LL-GT2 E) and GT3. will be too loose for rubber belts. 
+
+### shuttle_clamper_body_v96_*
+main body, for no loss in x.
+For inverted belts gt2 rubber belts (LL-2GT RF). Too tight for GT2 EPDM or GT3.
+
+### shuttle_clamper_body_v75
+Single pin, no teardrop lock.
+Meant to be used with m2_belt_clamp or m3_BeefyBeltClamp
+
+### m2_belt_clamp
+small footprint belt clamp using m2 screws and heatset nuts.
+
+
+### m3_BeefyBeltClamp
+Beefy clamp using m3 screws and hexnuts.
 
 ### BOM - m2_belt_clamp
 | Part                        | Amount    | Description                                                      |
