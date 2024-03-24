@@ -2,7 +2,7 @@
 by [MikeYankeeOscarBeta](https://github.com/MikeYankeeOscarBeta/) (VoronDesign Discord: #MikeyMike V2.5796, Voron Toolchangers Discord: MikeyMike - Github: [MikeYankeeOscarBeta](https://github.com/MikeYankeeOscarBeta/StealthChanger))
 
 ## Description
-A solution for mounting 9mm and 6mm gt2 belts to mgn12 carriage with M2-SHCS or 2mm pin. Designed to handle high belt tensions.
+A solution for mounting 9mm and 6mm 2mgt/2gt GT2/GT3 belts to mgn12 carriage with M2-SHCS or 2mm pin. Designed to handle high belt tensions.
 Versions for both inverted and normal belts.
 
 ## Features
