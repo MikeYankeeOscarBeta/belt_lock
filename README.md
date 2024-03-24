@@ -25,9 +25,9 @@ Use support (make sure your supports are tuned to the point where you're able to
 40%+ infill  
 4 perimitters  
 4 top and bottom layers  
-0.2mm layer height  
-0.4mm nozzle or smaller  
-enable filling gaps  
+0.2mm layer height  (or smaller)
+0.4mm nozzle (or smaller)
+enable filling gaps
 
 
 ### BOM - m2_belt_clamp
