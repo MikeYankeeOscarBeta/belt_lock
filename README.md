@@ -6,12 +6,12 @@ A solution for mounting 9mm and 6mm 2mgt/2gt GT2/GT3 belts to mgn12 carriage wit
 Versions for both inverted and normal belts.
 
 ## Features
-- Belt Pin.
-- Does not clamp the belt against the carriage.
-- For monolith (inverted belts) it will not change the belt path (keeps the belt path perfectly straight).
-- For normal belt direction there will be a ~0.8mm y offset.
-- Keeps within the confines of the carriage (unless using the external clamps).
-- builds 6mm out in y
+- Belt Pin
+- Does not clamp the belt against the carriage, carriage-wipers or anything other than itself
+- For monolith (inverted belts) it will not change the belt path (keeps the belt path perfectly straight)
+- For normal belt direction there will be a ~0.8mm y offset
+- Keeps within the confines of the carriage (unless using the external clamps)
+- builds just 6mm out in y
 - Tested with 15kg static load per belt
 
 ## BOM
@@ -34,12 +34,12 @@ Versions for both inverted and normal belts.
 ## Part Instructions
 ### shuttle_clamper_body_v101_inverted_belt_gt2_epdm
 main body, for no loss in x.
-For inverted belts in EPDM (LL-GT2 E) and GT3. will be too loose for rubber belts. 
+For inverted belts in EPDM (LL-GT2 E) and GT3. will be too loose for normal GT2 (rubber) belts.
+Should work with GT2 RF (rubber/normal) belts as well, but slips sooner (<15kg)
 
 ### shuttle_clamper_body_v96_*
 main body, for no loss in x.
 For inverted belts gt2 rubber belts (LL-2GT RF). Too tight for GT2 EPDM or GT3.
-Works with GT2 RF (rubber/normal) belts as well, but slips sooner (<15kg)
 
 ### shuttle_clamper_body_v75
 Single pin, no teardrop lock.
