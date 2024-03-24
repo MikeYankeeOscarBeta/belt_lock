@@ -39,6 +39,7 @@ For inverted belts in EPDM (LL-GT2 E) and GT3. will be too loose for rubber belt
 ### shuttle_clamper_body_v96_*
 main body, for no loss in x.
 For inverted belts gt2 rubber belts (LL-2GT RF). Too tight for GT2 EPDM or GT3.
+Works with GT2 RF (rubber/normal) belts as well, but slips sooner (<15kg)
 
 ### shuttle_clamper_body_v75
 Single pin, no teardrop lock.
