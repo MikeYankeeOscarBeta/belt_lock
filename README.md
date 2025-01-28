@@ -41,7 +41,7 @@ Should work with GT2 RF (rubber/normal) belts as well, but will slip sooner (<15
 main body, for no loss in x.
 For inverted belts gt2 rubber belts (LL-2GT RF). Too tight for GT2 EPDM or GT3.
 
-### shuttlething_v0.3_v96_normal_belt
+### shuttle_clamper_body_v96_normal_belt
 For normal (non-inverted) GT2-R (rubber) belts.
 
 ### shuttle_clamper_body_v75
