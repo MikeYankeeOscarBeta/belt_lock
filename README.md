@@ -41,10 +41,12 @@ Should work with GT2 RF (rubber/normal) belts as well, but will slip sooner (<15
 main body, for no loss in x.
 For inverted belts gt2 rubber belts (LL-2GT RF). Too tight for GT2 EPDM or GT3.
 
+### shuttlething_v0.3_v96_normal_belt
+For normal (non-inverted) GT2-R (rubber) belts.
+
 ### shuttle_clamper_body_v75
-Single pin, no teardrop lock.
-Meant to be used with m2_belt_clamp or m3_BeefyBeltClamp.
-GT2 rubber and epdm, and GT3.
+Single pin, no teardrop lock. For both normal and inverted belts. GT2 rubber and epdm, and GT3.
+Requires use with a clamp like m2_belt_clamp or m3_BeefyBeltClamp.
 
 ### m2_belt_clamp
 small footprint belt clamp using m2 screws and heatset nuts.
